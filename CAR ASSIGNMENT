@@ -11,7 +11,7 @@ int year;
 };
 int main() {
 // Create an object of the Car
-car carObj1;SS
+car carObj1;
 carObj1.brand ="TATA" ;
 carObj1.model ="Harrier";
 carObj1.year = 2023;
